@@ -1,2 +1,2 @@
-*.vi linguist-detectable=LabVIEW
-*.ctt linguist-detectable=LabVIEW
+*.vi linguist-language=LabVIEW
+*.ctt linguist-language=LabVIEW
