@@ -1,4 +1,4 @@
-# Parabolic-Throw-Simulator
+# Parabolic Throw Simulator
 
 Symulator rzutu ukośnego wykonany w LabVIEW. Znaki zapytania to komponenty kontrolera DAQmx odpowiedzialnego za ustawianie wartości i komunikacją programu w kontrolerem.
 
