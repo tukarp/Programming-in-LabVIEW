@@ -1,8 +1,6 @@
 # Symulator Rzutu Ukośnego
 
-## Opis
-
-Symulator rzutu ukośnego wykonany w LabVIEW. Znaki zapytania to komponenty kontrolera DAQmx odpowiedzialnego za ustawianie wartości i komunikacją programu w kontrolerem.
+## Symulator rzutu ukośnego wykonany w ```LabVIEW```.
 
 ## Front Panel
 
