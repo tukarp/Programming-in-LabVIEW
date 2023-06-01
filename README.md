@@ -1,4 +1,4 @@
-# Symulator Rzutu Ukośnego
+# Programowanie w LabVIEW
 
 ## Symulator rzutu ukośnego wykonany w ```LabVIEW```.
 
